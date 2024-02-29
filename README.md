@@ -2,7 +2,7 @@
   <img height="150" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/time%20scroll.gif"  />
 </div>
 <h1 align="center">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jahnvi+Sahni;+I'm+a+Data+Science+Enthusiast+👨🏻‍💻;I'm+a+Passionate+Coder+👨‍💻;" />
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jahnvi+Sahni;+A+Data+Science+Enthusiast+👨🏻‍💻;I'm+a+Passionate+Coder+👨‍💻;" />
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahn31" /> </p>
