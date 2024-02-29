@@ -33,15 +33,12 @@
 <br>
 
 <br>
-<br>'
-![Leetcode Stats](https://leetcard.jacoblin.cool/manya721?theme=light&font=Alegreya)
+<br>
+![Leetcode Stats](https://leetcard.jacoblin.cool/jahnvisahni98?theme=light&font=Alegreya)
 <br>
 <br>
 
 <p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&locale=en" alt="jahnvisahni31" />
 <img align="right" width="400" src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=great-gatsby" alt="GitHub Streak" />
 </p>
-<br><br>
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/jahnvisahni98?theme=light&font=Alegreya)
+<br>
