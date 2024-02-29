@@ -15,10 +15,10 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sahni_jahnvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_ur_anuj" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/jahnvisahni31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-kumar-pandey-6151a81b5" height="30" width="40" /></a>
-<a href="https://leetcode.com/jahnvisahni98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codermal7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jahnvisahni98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codermal7" height="30" width="40" /></a>
+<a href="https://twitter.com/sahni_jahnvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahni_jahnvi" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jahnvisahni31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahnvisahni31" height="30" width="40" /></a>
+<a href="https://leetcode.com/jahnvisahni98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahnvisahni98" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jahnvisahni98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jahnvisahni98" height="30" width="40" /></a>
 </p>
 
 </p>
@@ -32,7 +32,13 @@
 <br>
 <br>
 
-<p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&locale=en" alt="codermal7" />
+<br>
+<br>'
+![Leetcode Stats](https://leetcard.jacoblin.cool/manya721?theme=light&font=Alegreya)
+<br>
+<br>
+
+<p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&locale=en" alt="jahnvisahni31" />
 <img align="right" width="400" src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=great-gatsby" alt="GitHub Streak" />
 </p>
 <br><br>
