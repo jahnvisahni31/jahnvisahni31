@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+  <img height="150" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/time%20scroll.gif"  />
 </div>
 <h1 align="center">
      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jahnvi+Sahni;I'm+a+Data+Science+Enthusiast+👨🏻‍💻;I'm+a+Passionate+Coder+👨‍💻;" />
