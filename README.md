@@ -15,7 +15,9 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahnvisahni98@gmail.com)](mailto:jahnvisahni98@gmail.com)
+<a target="_blank" href="mailto:jahnvisahni98@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://twitter.com/sahni_jahnvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahni_jahnvi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jahnvisahni31" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://leetcode.com/jahnvisahni98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahnvisahni98" height="30" width="40" /></a>
