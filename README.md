@@ -32,7 +32,7 @@
 <br>
 <br>
 
-[![Jahnvisahni's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jahnvisahni98&theme=dark)]
+[![jahnvisahni98's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jahnvisahni98&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 
 
