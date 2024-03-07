@@ -32,7 +32,7 @@
 <br>
 <br>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jahnvisahni98?theme=light&font=Alegreya)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jahnvisahni98&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 
