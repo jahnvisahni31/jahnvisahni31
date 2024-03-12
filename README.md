@@ -38,8 +38,14 @@
 [![jahnvisahni98's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jahnvisahni98&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Biking%20Light%20Skin%20Tone.png" alt="Man Biking Light Skin Tone" width="25" height="25" /> Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jahnvisahni31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) 
+
+
 
 <p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&locale=en&theme=Dark" alt="jahnvisahni31" />
 <img align="right" width="400" src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=great-gatsby" alt="GitHub Streak" />
 </p>
 <br>
+
+
