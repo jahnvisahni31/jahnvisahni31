@@ -35,11 +35,14 @@
 <br>
 <br>
 
-[![jahnvisahni98's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jahnvisahni98&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahnvisahni31&show_icons=true&locale=en&layout=compact" alt="jahnvisahni31" /></p> -->
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&locale=en" alt="jahnvisahni31" /></p>
+-->
+<img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Biking%20Light%20Skin%20Tone.png" alt="Man Biking Light Skin Tone" width="25" height="25" /> Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jahnvisahni31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisahni31&" alt="jahnvisahni" />  <img align ="right" margin-right ="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahnvisahni31&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="jahnvisahni /></p>
 
 
 
