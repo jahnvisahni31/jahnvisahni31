@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/jahnvisahni31/CodeHive/blob/main/assets/JXA0.gif"; height= 300px>
+  <img height="150" src="https://github.com/jahnvisahni31/CodeHive/blob/main/assets/JXA0.gif"; height= 500px>
 </div>
 
 <h1 align="center">
