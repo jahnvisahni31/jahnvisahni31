@@ -71,12 +71,9 @@
 ## 📊 My GitHub Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
 <br/>
 
-<div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jahnvisahni31&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
- </div>
-<p>
+<p>  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jahnvisahni31&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <img align="left" alt="jahnvisahni31's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisahni31&layout=compact&theme=dark" width="46%" />
 </p>
