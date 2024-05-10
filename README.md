@@ -76,7 +76,8 @@
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jahnvisahni31&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
  </div>
-
+<p>
 <img align="left" alt="jahnvisahni31's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisahni31&layout=compact&theme=dark" width="46%" />
+</p>
 <br>
