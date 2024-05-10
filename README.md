@@ -67,9 +67,8 @@
 
 
 
-## 📊 My GitHub Stats 
-<img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
-  <br/>
+## 📊 My GitHub Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
+<br/>
 
 <div align="center">
   
