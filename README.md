@@ -69,11 +69,12 @@
 <br/>
 
 
-<p align="left">
+<p align="left" style="display: flex; justify-content: space-between;">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisahni31&theme=highcontrast" alt="GitHub streak" style="max-width: 30%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisahni31&theme=highcontrast" alt="GitHub streak" style="max-width: 49%;"/>
   </a>
-<img align="right" alt="jahnvisahni31's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&theme=dark" style="max-width: 70%;" />
+  <img alt="jahnvisahni31's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&theme=dark" style="max-width: 49%;" />
 </p>
+
 
 <br>
