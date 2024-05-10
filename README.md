@@ -40,6 +40,8 @@
 | [Imagify ](https://github.com/jahnvisahni31/Imagify) |Imagify is a deep learning project that leverages the PyTorch framework to build an image classifier. The classifier is designed to recognize and categorize images into predefined classes with high accuracy. |
 
 <hr>
+<br>
+
 ## Skills
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
