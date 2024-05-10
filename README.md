@@ -77,9 +77,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisahni31&theme=highcontrast" alt="GitHub streak" style="max-width: 49%;"/>
   </a>
   <img align="left" alt="jahnvisahni31's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&theme=dark" style="max-width: 49%;" />
-</p>
-<p align="left">
-  <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisahni31&layout=compact&theme=dark" width="100%" />
+  <a><img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisahni31&layout=compact&theme=dark" width="100%" />
+  </a>
 </p>
 
 <br>
