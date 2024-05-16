@@ -38,6 +38,7 @@
 | :---:        |    :----   |  
 | [Sports-Popularity-Forecast](https://github.com/jahnvisahni31/Sports-Popularity-Forecast)   |The sports popularity forecast is designed to predict future trends and shifts in the popularity of various sports globally using time series and also data is extracted from google data | 
 | [Imagify ](https://github.com/jahnvisahni31/Imagify) |Imagify is a deep learning project that leverages the PyTorch framework to build an image classifier. The classifier is designed to recognize and categorize images into predefined classes with high accuracy. |
+| [Bodhibot ](https://github.com/jahnvisahni31/BodhiBot) |BodhiBot is an advanced AI-driven chatbot designed to provide comprehensive knowledge and insights into Buddhism. Leveraging the power of Llama2 and Chainlit, BodhiBot offers an interactive platform for exploring Buddhist teachings, history, and cultural aspects. |
 
 <hr>
 
