@@ -9,8 +9,7 @@
 
 ## 🚀 About Me
 
-💡 &nbsp; Hello everyone,I'm engineering student. Love to code.\
-✍️ &nbsp; I'm data science enthusiast.\
+💡 &nbsp; Hello everyone,I'm engineering student. and also a Data science enthusiast.Love to code.\
 🌱 &nbsp;I'm currently working on **improving my coding skills by building small projects.**\
 ✍️ &nbsp;Apart from technical interests, I like watching movies.\
 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/jahnvisahni31/)!!
