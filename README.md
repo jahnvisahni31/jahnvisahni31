@@ -39,6 +39,8 @@
 | [Sports-Popularity-Forecast](https://github.com/jahnvisahni31/Sports-Popularity-Forecast)   |The sports popularity forecast is designed to predict future trends and shifts in the popularity of various sports globally using time series and also data is extracted from google data | 
 | [Imagify ](https://github.com/jahnvisahni31/Imagify) |Imagify is a deep learning project that leverages the PyTorch framework to build an image classifier. The classifier is designed to recognize and categorize images into predefined classes with high accuracy. |
 | [Bodhibot ](https://github.com/jahnvisahni31/BodhiBot) |BodhiBot is an advanced AI-driven chatbot designed to provide comprehensive knowledge and insights into Buddhism. Leveraging the power of Llama2 and Chainlit, BodhiBot offers an interactive platform for exploring Buddhist teachings, history, and cultural aspects. |
+| [Airport Analysis ](https://github.com/jahnvisahni31/Airport_analysis) |This project is a comprehensive Power BI dashboard analyzing airport operations, focusing on flight delays, time analysis, and detailed flight information to improve efficiency and passenger satisfaction. |
+
 
 <hr>
 
@@ -60,6 +62,7 @@
 ![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=seaborn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 <br/>
 <hr style="border:0.3px solid gray"> </hr>
