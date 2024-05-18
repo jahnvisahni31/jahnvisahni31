@@ -10,10 +10,10 @@
 ## 🚀 About Me
 
 💡 &nbsp; Hello everyone,I'm engineering student. and also a Data science enthusiast.Love to code.\
-🚀 &nbsp; GSSOC'24 | GSSOC'23 Contributor
-👩‍💼 &nbsp; Former Community Manager @Developers
-🧠 &nbsp; AWS AI & ML Scholar'23
-🌱 &nbsp; Mentee @Codess.cafe
+🚀 &nbsp; GSSOC'24 | GSSOC'23 Contributor \
+👩‍💼 &nbsp; Former Community Manager @Developers \
+🧠 &nbsp; AWS AI & ML Scholar'23 \
+🌱 &nbsp; Mentee @Codess.cafe \
 🌱 &nbsp;I'm currently working on **improving my coding skills by building small projects.**\
 ✍️ &nbsp;Apart from technical interests, I like watching movies.\
 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/jahnvisahni31/)!!
