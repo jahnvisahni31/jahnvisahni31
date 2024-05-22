@@ -69,10 +69,10 @@
 [![AutoML](https://img.shields.io/badge/AutoML-00CFFF?style=for-the-badge&logo=automl&logoColor=white)](#)
 [![AutoGluon](https://img.shields.io/badge/AutoGluon-333333?style=for-the-badge&logo=autogluon&logoColor=white)](#)
 
-
 <br/>
 <hr style="border:0.3px solid gray"> </hr>
 
+## Statistics
 <img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <br>
