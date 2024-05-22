@@ -40,7 +40,7 @@
 | [Imagify ](https://github.com/jahnvisahni31/Imagify) |Imagify is a deep learning project that leverages the PyTorch framework to build an image classifier. The classifier is designed to recognize and categorize images into predefined classes with high accuracy. |
 | [Bodhibot ](https://github.com/jahnvisahni31/BodhiBot) |BodhiBot is an advanced AI-driven chatbot designed to provide comprehensive knowledge and insights into Buddhism. Leveraging the power of Llama2 and Chainlit, BodhiBot offers an interactive platform for exploring Buddhist teachings, history, and cultural aspects. |
 | [Airport Analysis ](https://github.com/jahnvisahni31/Airport_analysis) |This project is a comprehensive Power BI dashboard analyzing airport operations, focusing on flight delays, time analysis, and detailed flight information to improve efficiency and passenger satisfaction. |
-| [predict_bike_sharing_with_autogluon ](https://github.com/jahnvisahni31/predict_bike_sharing_with_autogluon) |This project leverages AutoGluon in AWS SageMaker Studio to predict bike sharing demand, automating model training and tuning for accurate forecasting. |
+| [Bike Sharing demand prediction](https://github.com/jahnvisahni31/predict_bike_sharing_with_autogluon) |This project leverages AutoGluon in AWS SageMaker Studio to predict bike sharing demand, automating model training and tuning for accurate forecasting. |
 
 
 <hr>
