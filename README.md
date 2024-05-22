@@ -73,6 +73,6 @@
 <br/>
 <hr style="border:0.3px solid gray"> </hr>
 
-![Profile Card](https://myreadme.vercel.app/api/embed/jahnvisahni98)
+<img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <br>
