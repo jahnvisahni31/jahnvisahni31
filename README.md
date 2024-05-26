@@ -73,7 +73,6 @@
 <hr style="border:0.3px solid gray"> </hr>
 
 ## Statistics
-![Jahnvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&theme=radical)
 
 
 <img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
