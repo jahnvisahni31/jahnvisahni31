@@ -74,5 +74,6 @@
 
 ## Statistics
 <img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Jahnvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahnvisahni98&show_icons=true&theme=radical)
 
 <br>
