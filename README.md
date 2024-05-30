@@ -74,13 +74,9 @@
 
 ## Statistics
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jahnvisahni31&theme=react-dark)](https://github.com/jahnvisahni31/) 
-
--->
-<img align="right" src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=great-gatsby" alt="GitHub Streak" />
-
-
 <img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jahnvisahni31&theme=react-dark)](https://github.com/jahnvisahni31/) 
+<img align="right" src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=great-gatsby" alt="GitHub Streak" />
 
 <br>
