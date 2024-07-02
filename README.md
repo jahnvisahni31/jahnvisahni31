@@ -75,10 +75,11 @@
 
 ## Statistics
 
-
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&locale=en" alt="jahnvisahni31" style="width: 50%;"/>
-    <img src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=great-gatsby" alt="GitHub Streak" style="width: 49%;"/>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" style="width: 49%;"/>
+    </a>
 </div>
 
 <br>
