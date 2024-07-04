@@ -1,5 +1,3 @@
-[![photo](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Jahnvi+sahni's+GitHub+Profile+I+am+a+data+science+enthusiast)](https://git.io/typing-svg)
 
 
