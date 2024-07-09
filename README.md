@@ -19,11 +19,14 @@
 
 
 
-## 🔗 Connect with me here
+## 
+<h1 align="center"> Connect with me here !! </h1>
+
 <p align="left">
 <a href="https://linkedin.com/in/jahnvisahni31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahnvisahni31" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/jahnvisahni98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahnvisahni98" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/jahnvisahni98/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jahnvisahni98" height="30" width="40" /></a>
+ 
 </p
  <br>
 
@@ -74,7 +77,7 @@
 ## Statistics
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="width: 65%;/>
+    <img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" style="width: 65%;/>
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" style="width: 34%;"/>
     </a>
