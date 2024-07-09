@@ -9,7 +9,6 @@
 ## 🚀 About Me
 
 💡 &nbsp; Hello everyone,I'm engineering student. and also a Data science enthusiast.Love to code.\
-🚀 &nbsp; GSSOC'24 | GSSOC'23 Contributor \
 🌱 &nbsp;I'm currently working on **Mern Stack and DSA**\
 ✍️ &nbsp;Checkout my Website here.[Portfolio](https://jahnvisahni.vercel.app/)\
 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/jahnvisahni31/)!!
