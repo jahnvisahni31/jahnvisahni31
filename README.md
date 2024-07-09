@@ -77,9 +77,9 @@
 ## Statistics
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" style="width: 65%;/>
+    <img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" style="width: 55%;/>
     <a href="https://git.io/streak-stats">
-       <img src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=dark&hide_border=true&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" style="width: 40%;"/>
+       <img src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=dark&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" style="width: 44%;"/>
     </a>
 </div>
 
