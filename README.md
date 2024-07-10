@@ -6,8 +6,7 @@
 
 
 
-## 
-<h1 align="center"> About Me </h1>
+## ABOUT ME !!
 
 💡 &nbsp; Hello everyone,I'm engineering student. and also a Data science enthusiast.Love to code.\
 🌱 &nbsp;I'm currently working on **Mern Stack and DSA**\
@@ -19,8 +18,7 @@
 
 
 
-## 
-<h1 align="center"> Connect with me here !! </h1>
+## CONNECT WITH ME HERE !!!
 
 <p align="left">
 <a href="https://linkedin.com/in/jahnvisahni31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahnvisahni31" height="30" width="40" /></a>
@@ -33,8 +31,7 @@
  
 
 
-## 
-<h1 align="center"> Projects</h1>
+## PROJECTS
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
@@ -47,8 +44,7 @@
 
 <hr>
 
-## 
-<h1 align="center">Skills</h1>
+## SKILLS
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -75,7 +71,7 @@
 <br/>
 <hr style="border:0.3px solid gray"> </hr>
 
-## Statistics
+## PROFILE STATISTICS
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" style="width: 55%;/>
