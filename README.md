@@ -6,7 +6,8 @@
 
 
 
-## 🚀 About Me
+## 
+<h1 align="center"> About Me </h1>
 
 💡 &nbsp; Hello everyone,I'm engineering student. and also a Data science enthusiast.Love to code.\
 🌱 &nbsp;I'm currently working on **Mern Stack and DSA**\
@@ -46,7 +47,8 @@
 
 <hr>
 
-## Skills
+## 
+<h1 align="center">Skills</h1>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
