@@ -3,9 +3,7 @@
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="PHOTO" />
   </a>
   <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76615&background=15151500&width=435&lines=Welcome+to+Jahnvi+Sahni's+github;+I+am+a+aspiring+frontend+developer+;and+also+a+ML+Enthusiast" alt="Typing SVG" />
-  </a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=40&size=26&duration=6000&pause=1000&color=F76615&background=15151500&vCenter=true&height=23&lines=Welcome+to+Jahnvi+Sahni's+github;+I+am+a+aspiring+frontend+developer+;and+also+a+ML+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
