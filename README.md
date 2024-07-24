@@ -59,6 +59,8 @@
 | **Software**                 | Adobe Photoshop, Figma, Blender, Framer Motion  |
 
 ## PROFILE STATISTICS
-<details close> 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=highcontrast" alt="GitHub Streak" /></a>
-</details>
+<a href="https://git.io/streak-stats">
+    <img align="right" src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=highcontrast" alt="GitHub Streak" />
+</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="jahnvisahni31's Stats" />
+
