@@ -1,4 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76615&background=15151500&width=435&lines=Welcome+to+Jahnvi+Sahni's+github;+I+am+a+aspiring+frontend+developer+;and+also+a+ML+Enthusiast)](https://git.io/typing-svg)
+<div align="center">
+  <a href="">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="PHOTO" />
+  </a>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76615&background=15151500&width=435&lines=Welcome+to+Jahnvi+Sahni's+github;+I+am+a+aspiring+frontend+developer+;and+also+a+ML+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
 
@@ -8,13 +16,14 @@
 
 - 🌱 I’m currently learning **Mern Stack and DSA**
 
-- 👨‍💻 All of my projects are available at [https://jahnvisahni.vercel.app/](https://jahnvisahni.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://jahnvisahni.vercel.app/)
 
 - 📫 How to reach me **jahnvisahnj.31@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F9E-KVbFgSP7d3T8eNBSt_DGKthUleIk/view?usp=sharing](https://drive.google.com/file/d/1F9E-KVbFgSP7d3T8eNBSt_DGKthUleIk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1F9E-KVbFgSP7d3T8eNBSt_DGKthUleIk/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/jahnvisahni31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahnvisahni31" height="30" width="40" /></a>
 <a href="https://kaggle.com/jahnvisahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jahnvisahni" height="30" width="40" /></a>
@@ -49,8 +58,7 @@
 | **Backend as a Service**     | Firebase, Heroku, Vercel                        |
 | **Software**                 | Adobe Photoshop, Figma, Blender, Framer Motion  |
 
-
 ## PROFILE STATISTICS
-
+<details close> 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=highcontrast" alt="GitHub Streak" /></a>
-
+</details>
