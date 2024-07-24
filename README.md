@@ -62,5 +62,5 @@
 <a href="https://git.io/streak-stats">
     <img align="right" src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=highcontrast" alt="GitHub Streak" width="45%" />
 </a>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="jahnvisahni31's Stats" width="55%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="jahnvisahni31's Stats" width="54%" />
 
