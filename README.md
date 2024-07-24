@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="PHOTO" />
   </a>
   <br/>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=40&size=26&duration=6000&pause=1000&color=F76615&background=15151500&vCenter=true&height=23&lines=Welcome+to+Jahnvi+Sahni's+github;+I+am+a+aspiring+frontend+developer+;and+also+a+ML+Enthusiast" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Edu+Australia+VIC+WA+NT+Hand&weight=30&duration=6000&pause=1000&color=02F769&background=15151500&vCenter=true&height=23&lines=Welcome+to+Jahnvi+Sahni's+github;+I+am+a+aspiring+frontend+developer+;and+also+a+ML+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
@@ -11,13 +11,9 @@
 ## About ME !!
 
 - 🔭 I’m currently working on [Ceramic Haven](https://github.com/jahnvisahni31/CeramicHaven)
-
 - 🌱 I’m currently learning **Mern Stack and DSA**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://jahnvisahni.vercel.app/)
-
 - 📫 How to reach me **jahnvisahnj.31@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1F9E-KVbFgSP7d3T8eNBSt_DGKthUleIk/view?usp=sharing)
 
 ## Connect with me:
