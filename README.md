@@ -7,7 +7,6 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
-
 ## About ME !!
 
 - 🔭 I’m currently working on [Ceramic Haven](https://github.com/jahnvisahni31/CeramicHaven)
@@ -15,6 +14,7 @@
 - 👨‍💻 All of my projects are available at [Portfolio](https://jahnvisahni.vercel.app/)
 - 📫 How to reach me **jahnvisahnj.31@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1F9E-KVbFgSP7d3T8eNBSt_DGKthUleIk/view?usp=sharing)
+<br>
 
 ## Connect with me:
 
@@ -25,6 +25,7 @@
 <a href="https://auth.geeksforgeeks.org/user/jahnvisahni98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jahnvisahni98" height="30" width="40" /></a>
 </p>
 
+<br>
 ## PROJECTS
 
 | Project Name      | Description | 
@@ -51,7 +52,7 @@
 | **Data Visualization**       | Looker, Chart.js, D3.js                         |
 | **Backend as a Service**     | Firebase, Heroku, Vercel                        |
 | **Software**                 | Adobe Photoshop, Figma, Blender, Framer Motion  |
-
+<br>
 ## PROFILE STATISTICS
 
 <img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />]
