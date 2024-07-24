@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Jahnvi+sahni's+GitHub+Profile+I+am+a+data+science+enthusiast)](https://git.io/typing-svg)
-
 
 <h1 align="center">Hi 👋, I'm Jahnvi Sahni</h1>
 <h3 align="center">A passionate frontend developer and a data science Enthusiast from India</h3>
