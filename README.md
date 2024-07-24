@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Jahnvi Sahni</h1>
-<h3 align="center">A passionate frontend developer and a data science Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
+
+## About ME !!
 
 - 🔭 I’m currently working on [Ceramic Haven](https://github.com/jahnvisahni31/CeramicHaven)
 
