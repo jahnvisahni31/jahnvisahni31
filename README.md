@@ -52,9 +52,5 @@
 
 ## PROFILE STATISTICS
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahnvisahni31&show_icons=true&locale=en&layout=compact" alt="jahnvisahni31" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&locale=en" alt="jahnvisahni31" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisahni31&" alt="jahnvisahni31" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jahnvisahni31&theme=highcontrast" alt="GitHub Streak" /></a>
 
