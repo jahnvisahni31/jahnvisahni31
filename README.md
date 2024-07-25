@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="PHOTO" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Edu+Australia+VIC+WA+NT+Hand&weight=30&duration=6000&pause=1000&color=02F769&background=15151500&vCenter=true&height=23&lines=Welcome+to+Jahnvi+Sahni's+github;+I+am+a+aspiring+frontend+developer+;and+also+a+ML+Enthusiast" alt="Typing SVG" />
   </a>
