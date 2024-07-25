@@ -32,11 +32,11 @@
 | :---:        |    :----   |  
 | [Ceramic Haven](https://github.com/jahnvisahni31/CeramicHaven) |A Full stack application using modern tools to manage data and secure user access. |
 | [DesignDeck](https://github.com/jahnvisahni31/DesignDeck) |Web-based design tool inspired by Figma, built using Next.js. It aims to provide a collaborative design environment where users can create, edit, and share their designs in real-time. |
-| [Sports-Popularity-Forecast](https://github.com/jahnvisahni31/Sports-Popularity-Forecast)   |The sports popularity forecast is designed to predict future trends and shifts in the popularity of various sports globally using time series and also data is extracted from google data | 
+| [Sportify](https://github.com/jahnvisahni31/Sports-Popularity-Forecast)   |The sports popularity forecast is designed to predict future trends and shifts in the popularity of various sports globally using time series and also data is extracted from google data | 
 | [Imagify ](https://github.com/jahnvisahni31/Imagify) |Imagify is a deep learning project that leverages the PyTorch framework to build an image classifier. The classifier is designed to recognize and categorize images into predefined classes with high accuracy. |
-| [Bodhibot ](https://github.com/jahnvisahni31/BodhiBot) |BodhiBot is an advanced AI-driven chatbot designed to provide comprehensive knowledge and insights into Buddhism. Leveraging the power of Llama2 and Chainlit, BodhiBot offers an interactive platform for exploring Buddhist teachings, history, and cultural aspects. |
-| [Airport Analysis ](https://github.com/jahnvisahni31/Airport_analysis) |This project is a comprehensive Power BI dashboard analyzing airport operations, focusing on flight delays, time analysis, and detailed flight information to improve efficiency and passenger satisfaction. |
-| [Bike Sharing demand prediction](https://github.com/jahnvisahni31/predict_bike_sharing_with_autogluon) |This project leverages AutoGluon in AWS SageMaker Studio to predict bike sharing demand, automating model training and tuning for accurate forecasting. |
+| [Bodhibot](https://github.com/jahnvisahni31/BodhiBot) |BodhiBot is an advanced AI-driven chatbot designed to provide comprehensive knowledge and insights into Buddhism. Leveraging the power of Llama2 and Chainlit, BodhiBot offers an interactive platform for exploring Buddhist teachings, history, and cultural aspects. |
+| [Airport Analysis](https://github.com/jahnvisahni31/Airport_analysis) |This project is a comprehensive Power BI dashboard analyzing airport operations, focusing on flight delays, time analysis, and detailed flight information to improve efficiency and passenger satisfaction. |
+| [Bikesharing Prediction](https://github.com/jahnvisahni31/predict_bike_sharing_with_autogluon) |This project leverages AutoGluon in AWS SageMaker Studio to predict bike sharing demand, automating model training and tuning for accurate forecasting. |
 
 <br>
 
