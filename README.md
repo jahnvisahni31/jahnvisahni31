@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
 
-## About ME !!
+## ABOUT ME:
 
 - 🔭 I’m currently working on [Ceramic Haven](https://github.com/jahnvisahni31/CeramicHaven)
 - 🌱 I’m currently learning **Mern Stack and DSA**
@@ -17,7 +17,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1F9E-KVbFgSP7d3T8eNBSt_DGKthUleIk/view?usp=sharing)
 <br>
 
-## Connect with me:
+## CONNECT WITH ME:
 
 <p align="left">
 <a href="https://linkedin.com/in/jahnvisahni31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahnvisahni31" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 
 <br>
 
-## PROJECTS
+## PROJECTS:
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
@@ -42,7 +42,7 @@
 
 <br>
 
-## Skills
+## SKILLS:
 
 | Category                     | Skills                                           |
 |------------------------------|--------------------------------------------------|
@@ -56,6 +56,6 @@
 | **Software**                 | Adobe Photoshop, Figma, Blender, Framer Motion  |
 <br>
 
-## PROFILE STATISTICS
+## PROFILE STATISTICS:
 
-<img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />]
+<img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
