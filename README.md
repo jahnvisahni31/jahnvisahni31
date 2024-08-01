@@ -8,7 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
 
+<h2>About Me :book: </h2>
 
+- :repeat:"Strong intuitions come with strong applied knowledge." <br>
+- :spiral_calendar:Disciplined, Time bound, works out everything will full dedication and focus. <br>
+- :scroll: DSA and problem solving enthusiant. <br>
+- :infinity: In love with making new websites frontend. <br>
+- :100: Constant & consistent learner forever. 
 
 ## CONNECT WITH ME:
 
