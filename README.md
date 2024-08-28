@@ -58,3 +58,7 @@
 ## PROFILE STATISTICS:
 
 <img src="https://myreadme.vercel.app/api/embed/jahnvisahni31?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jahnvisahni31&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
