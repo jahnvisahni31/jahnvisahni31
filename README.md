@@ -57,5 +57,15 @@
 
 ## PROFILE STATISTICS:
 
-![jahnvisahni31's Stats](https://github-readme-stats.vercel.app/api?username=jahnvisahni31&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-![jahnvisahni31's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahnvisahni31&theme=highcontrast&hide_border=true)
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="jahnvisahni31's Stats">
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisahni31&theme=highcontrast&hide_border=true" alt="jahnvisahni31's Streak">
+    </td>
+  </tr>
+</table>
+
+
