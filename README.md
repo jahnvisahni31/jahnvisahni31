@@ -57,15 +57,13 @@
 
 ## PROFILE STATISTICS:
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="jahnvisahni31's Stats">
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnvisahni31&theme=highcontrast&hide_border=true" alt="jahnvisahni31's Streak">
-    </td>
-  </tr>
-</table>
+<br/>
+<a href="https://github.com/jahnvisahni31/github-readme-stats"><img alt="jahnvisahni31 Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/jahnvisahni31/github-readme-stats"><img alt="jahnvisahni31 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisahni31&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
 
 
