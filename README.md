@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="PHOTO" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Edu+Australia+VIC+WA+NT+Hand&weight=30&duration=6000&pause=1000&color=02F769&background=15151500&vCenter=true&height=23&lines=Welcome+to+Jahnvi+Sahni's+github;+I+am+a+aspiring+frontend+developer+;and+also+a+ML+Enthusiast" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Edu+Australia+VIC+WA+NT+Hand&weight=30&duration=6000&pause=1000&color=02F769&background=15151500&vCenter=true&height=23&lines=Welcome+to+Jahnvi+Sahni's+github;+An+Aspiring+frontend+developer+;and+also+AI/ML+Enthusiast" alt="Typing SVG" /></a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lxZDAxaTJxOGhzMGZtazJ5YnRlNGp2OXA4bm9uNmluNXc3ZTJ0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QIKUNA9oGxeWGLbCFY/giphy.gif" alt="Exciting GIF" width="60"/>
+
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
