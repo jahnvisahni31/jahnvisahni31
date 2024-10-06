@@ -8,6 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
 
+## ABOUT ME !! 
+
 ```yaml
   name: "Jahnvi Sahni"
   role: "Aspiring Software Engineer"
@@ -40,7 +42,9 @@
 <a href="https://www.geeksforgeeks.org/user/jahnvisahni98/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="jahnvisahni98" /></a>
 <a href="https://codeforces.com/profile/pakqwq" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="pakqwq" /></a>
 <a href="https://www.codechef.com/users/lucipie131" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="lucipie131" /></a>
+<a href="https://jahnvisahni.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="jahnvisahni31" /></a>
 
+<br>
 
 ## PROJECTS:
 
@@ -70,10 +74,8 @@
 
 <br>
 
-
 ## PROFILE STATISTICS:
 
-<br/>
 <a href="https://github.com/jahnvisahni31/github-readme-stats"><img alt="jahnvisahni31 Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/jahnvisahni31/github-readme-stats"><img alt="jahnvisahni31 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisahni31&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -84,5 +86,6 @@
   <img alt="jahnvisahni31's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvisahni31&theme=react-dark" />
 </a>
 <br/>
+
 
 
