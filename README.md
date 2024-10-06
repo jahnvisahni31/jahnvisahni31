@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/jahnvisahni31/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jahnvisahni31/"  /></a>
 <a href="https://x.com/sahni_jahnvi" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://medium.com/@jahnvisahni98" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@jahnvisahni98"  /></a>
-<a href="https://leetcode.com/u/jahnvisahni98 target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="jahnvisahni98" /></a>
+<a href="https://leetcode.com/u/jahnvisahni98" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="jahnvisahni98" /></a>
 <a href="https://www.geeksforgeeks.org/user/jahnvisahni98/ target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="jahnvisahni98" /></a>
 <a href="https://codeforces.com/profile/pakqwq target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="pakqwq" /></a>
 <a href="https://www.codechef.com/users/lucipie131 target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="lucipie131" /></a>
