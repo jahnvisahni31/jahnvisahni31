@@ -8,24 +8,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
 
-<h2>About Me :book: </h2>
+```
+#!/usr/bin/python
 
-- :repeat:"Strong intuitions come with strong applied knowledge." <br>
-- :spiral_calendar:Disciplined, Time bound, works out everything will full dedication and focus. <br>
-- :scroll: DSA and problem solving enthusiant. <br>
-- :infinity: In love with making new websites frontend. <br>
-- :100: Constant & consistent learner forever. 
+class AspiringSoftwareEngineer:
 
-## CONNECT WITH ME:
+    def __init__(self):
+        self.name = "Jahnvi Sahni"
+        self.role = "Aspiring Software Engineer"
+        self.achievements = ["LinkedIn Top Voice", "Leetcode (1912) @Knight", "GFG 4⭐", "AWS AI/ML Scholar '23"]
+        self.skills = ["React", "Next.js", "Python", "Node.js"]
+        self.education = "CS Grad '25"
+        self.specialization = "Frontend & Algorithm Development"
+        self.experience = "Hackathon Top Performer"
+        self.social_links = {
+            "LinkedIn": "https://linkedin.com/in/jahnvisahni31",
+            "Kaggle": "https://kaggle.com/jahnvisahni",
+            "LeetCode": "https://www.leetcode.com/jahnvisahni98",
+            "GeeksforGeeks": "https://auth.geeksforgeeks.org/user/jahnvisahni98"
+        }
 
-<p align="left">
-<a href="https://linkedin.com/in/jahnvisahni31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahnvisahni31" height="30" width="40" /></a>
-<a href="https://kaggle.com/jahnvisahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jahnvisahni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jahnvisahni98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahnvisahni98" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jahnvisahni98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jahnvisahni98" height="30" width="40" /></a>
-</p>
+    def say_hi(self):
+        print(f"Hi, I'm {self.name}, an aspiring software engineer with a passion for problem-solving and development.")
+        print("I'm skilled in technologies like React, Next.js, Python, and Node.js, with a focus on frontend and algorithm development.")
+        print("Feel free to connect with me through my socials:")
+        for platform, link in self.social_links.items():
+            print(f"{platform}: {link}")
 
-<br>
+me = AspiringSoftwareEngineer()
+me.say_hi()
+```
 
 ## PROJECTS:
 
