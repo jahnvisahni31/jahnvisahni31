@@ -9,7 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
 
 ```yaml
-AspiringSoftwareEngineer:
   name: "Jahnvi Sahni"
   role: "Aspiring Software Engineer"
   achievements:
