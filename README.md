@@ -47,28 +47,29 @@
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [Ceramic Haven](https://github.com/jahnvisahni31/CeramicHaven) |A Full stack application using modern tools to manage data and secure user access. |
-| [DesignDeck](https://github.com/jahnvisahni31/DesignDeck) |Web-based design tool inspired by Figma, built using Next.js. It aims to provide a collaborative design environment where users can create, edit, and share their designs in real-time. |
-| [Sportify](https://github.com/jahnvisahni31/Sports-Popularity-Forecast)   |The sports popularity forecast is designed to predict future trends and shifts in the popularity of various sports globally using time series and also data is extracted from google data | 
-| [Imagify ](https://github.com/jahnvisahni31/Imagify) |Imagify is a deep learning project that leverages the PyTorch framework to build an image classifier. The classifier is designed to recognize and categorize images into predefined classes with high accuracy. |
-| [Bodhibot](https://github.com/jahnvisahni31/BodhiBot) |BodhiBot is an advanced AI-driven chatbot designed to provide comprehensive knowledge and insights into Buddhism. Leveraging the power of Llama2 and Chainlit, BodhiBot offers an interactive platform for exploring Buddhist teachings, history, and cultural aspects. |
-| [Airport Analysis](https://github.com/jahnvisahni31/Airport_analysis) |This project is a comprehensive Power BI dashboard analyzing airport operations, focusing on flight delays, time analysis, and detailed flight information to improve efficiency and passenger satisfaction. |
-| [Bikesharing Prediction](https://github.com/jahnvisahni31/predict_bike_sharing_with_autogluon) |This project leverages AutoGluon in AWS SageMaker Studio to predict bike sharing demand, automating model training and tuning for accurate forecasting. |
-
+| [DesignDeck](https://github.com/jahnvisahni31/DesignDeck) |A Figma-inspired web design tool using Next.js for real-time collaborative editing. |
+| [Bodhibot](https://github.com/jahnvisahni31/BodhiBot) |An AI chatbot that provides insights into Buddhism using Llama2 and Chainlit. |
+| [Airport Analysis](https://github.com/jahnvisahni31/Airport_analysis) |A Power BI dashboard analyzing airport operations to improve efficiency and passenger satisfaction. |
+| [Bikesharing Prediction](https://github.com/jahnvisahni31/predict_bike_sharing_with_autogluon) |Uses AutoGluon in AWS SageMaker Studio to predict bike sharing demand. |
+| [Sportify](https://github.com/jahnvisahni31/Sports-Popularity-Forecast)   |A forecast predicting global sports popularity trends using time series and Google data. | 
+| [Imagify ](https://github.com/jahnvisahni31/Imagify) |A PyTorch-based image classifier that accurately categorizes images into predefined classes. |
 <br>
 
 ## SKILLS:
 
-| Category                     | Skills                                           |
-|------------------------------|--------------------------------------------------|
-| **Programming Languages**    | Python, C++, Java, PHP, Bootstrap, JavaScript    |
-| **Frontend Development**     | React, HTML, CSS, Tailwind CSS, Next.js          |
-| **Backend Development**      | Node.js, Express.js                             |
-| **AI/ML Technologies**       | PyTorch, TensorFlow, NumPy, pandas, Chart.js, OpenCV, scikit-learn, seaborn |
-| **Databases**                | MongoDB, MySQL                                  |
-| **Data Visualization**       | Looker, Chart.js, D3.js                         |
-| **Backend as a Service**     | Firebase, Heroku, Vercel                        |
-| **Software**                 | Adobe Photoshop, Figma, Blender, Framer Motion  |
+| Category                     | Skills and Icons                                                            |
+|------------------------------|---------------------------------------------------------------------------|
+| **Programming Languages**    | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Frontend Development**     | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) |
+| **Backend Development**      | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
+| **AI/ML Technologies**       | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white), ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) |
+| **Databases**                | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Data Visualization**       | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+| **Backend as a Service**     | ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  |
+| **Software**                 | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) |
+
 <br>
+
 
 ## PROFILE STATISTICS:
 
