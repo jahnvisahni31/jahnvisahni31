@@ -2,42 +2,46 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="PHOTO" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Edu+Australia+VIC+WA+NT+Hand&weight=30&duration=6000&pause=1000&color=02F769&background=15151500&vCenter=true&height=23&lines=Welcome+to+Jahnvi+Sahni's+github;+An+Aspiring+frontend+developer+;and+also+AI/ML+Enthusiast" alt="Typing SVG" /></a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lxZDAxaTJxOGhzMGZtazJ5YnRlNGp2OXA4bm9uNmluNXc3ZTJ0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QIKUNA9oGxeWGLbCFY/giphy.gif" alt="Exciting GIF" width="60"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&duration=5000&pause=700&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Jahnvi+Sahni;Aspiring+Software+Engineer;%26+a+AI/ML+enthusiast+" alt="Typing SVG"/></a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lxZDAxaTJxOGhzMGZtazJ5YnRlNGp2OXA4bm9uNmluNXc3ZTJ0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QIKUNA9oGxeWGLbCFY/giphy.gif" alt="Exciting GIF" width="60"/>
 
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
 
+```yaml
+AspiringSoftwareEngineer:
+  name: "Jahnvi Sahni"
+  role: "Aspiring Software Engineer"
+  achievements:
+    - "GSSOC'24 Project Admin"
+    - "Awarded a fellowship of Headstarters AI globally
+    - "2x LinkedIn Top Voice"
+    - "Leetcode (1912) @Knight"
+    - "GFG 4 Star"
+    - "AWS AI/ML Scholar '23"
+  skills:
+    - "React"
+    - "Next.js"
+    - "Python"
+    - "Node.js"
+  education:
+    degree: "BTech in Computer Science Specializing in Data Science"
+    university: "Bennett University"
+    CGPA: "8.34/10"
+  specialization: "Frontend & Algorithm Development"
+  experience: "Hackathon Top Performer"
 ```
-#!/usr/bin/python
 
-class AspiringSoftwareEngineer:
+## 🌐 CONNECT WITH ME HERE:
+<p align="left">
+<a href="https://www.linkedin.com/in/jahnvisahni31/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jahnvisahni31/"  /></a>
+<a href="https://x.com/sahni_jahnvi" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://medium.com/@jahnvisahni98" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@jahnvisahni98"  /></a>
+<a href="https://leetcode.com/u/jahnvisahni98 target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="jahnvisahni98" /></a>
+<a href="https://www.geeksforgeeks.org/user/jahnvisahni98/ target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="jahnvisahni98" /></a>
+<a href="https://codeforces.com/profile/pakqwq target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="pakqwq" /></a>
+<a href="https://www.codechef.com/users/lucipie131 target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="lucipie131" /></a>
 
-    def __init__(self):
-        self.name = "Jahnvi Sahni"
-        self.role = "Aspiring Software Engineer"
-        self.achievements = ["LinkedIn Top Voice", "Leetcode (1912) @Knight", "GFG 4⭐", "AWS AI/ML Scholar '23"]
-        self.skills = ["React", "Next.js", "Python", "Node.js"]
-        self.education = "CS Grad '25"
-        self.specialization = "Frontend & Algorithm Development"
-        self.experience = "Hackathon Top Performer"
-        self.social_links = {
-            "LinkedIn": "https://linkedin.com/in/jahnvisahni31",
-            "Kaggle": "https://kaggle.com/jahnvisahni",
-            "LeetCode": "https://www.leetcode.com/jahnvisahni98",
-            "GeeksforGeeks": "https://auth.geeksforgeeks.org/user/jahnvisahni98"
-        }
-
-    def say_hi(self):
-        print(f"Hi, I'm {self.name}, an aspiring software engineer with a passion for problem-solving and development.")
-        print("I'm skilled in technologies like React, Next.js, Python, and Node.js, with a focus on frontend and algorithm development.")
-        print("Feel free to connect with me through my socials:")
-        for platform, link in self.social_links.items():
-            print(f"{platform}: {link}")
-
-me = AspiringSoftwareEngineer()
-me.say_hi()
-```
 
 ## PROJECTS:
 
