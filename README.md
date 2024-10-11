@@ -15,6 +15,7 @@
   role: "Aspiring Software Engineer"
   achievements:
     - "GSSOC'24 Project Admin"
+    - "GSSOC'24 Mentor @JournalForge
     - "Awarded a fellowship of Headstarters AI globally
     - "2x LinkedIn Top Voice"
     - "Leetcode (1912) @Knight"
