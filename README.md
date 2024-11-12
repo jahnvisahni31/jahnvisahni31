@@ -83,15 +83,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br />
 <br/>
-<a href="https://github.com/jahnvisahni31">
-  <img alt="jahnvisahni31's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jahnvisahni31&theme=react-dark" />
-</a>
-<a href="https://leetcode.com/jahnvisahni98">
-    <img src="https://leetcard.jacoblin.cool/jahnvisahni98?theme=dark&font=Rosarivo&ext=contest" alt="LeetCode Stats">
-</a>
-<a href="https://codeforces.com/profile/pakqwq">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=pakqwq&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats">
-</a>
 <br/>
 
 
