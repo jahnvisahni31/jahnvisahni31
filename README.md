@@ -12,11 +12,11 @@
 
 ```yaml
   name: "Jahnvi Sahni"
-  education:
+  Education:
     degree: "BTech in Computer Science Specializing in Data Science"
     university: "Bennett University"
     CGPA: "8.34/10"
-  past_experiences:
+  Past_Experiences:
     - role: "Software Engineer Intern", "Itjobsx.com"
     - role: "Data science Intern", "Celebal Technologies"
     - achievement: "Software engineering Fellowship", "Headstarters AI"
@@ -28,7 +28,10 @@
     - "Codechef (1990) 4 Star"
     - "Codeforce (1541) Specialist"
     - "Atcoder (656) Brown 7 Kyu"
-  specialization: "Frontend & Algorithm Development"
+  Specialization: "Frontend & Algorithm Development"
+  Currently_learning:
+  - "Typescript"
+  - "Three.js"
 ```
 
 ## 🌐 CONNECT WITH ME HERE:
