@@ -12,32 +12,28 @@
 
 ```yaml
   name: "Jahnvi Sahni"
-  role: "Aspiring Software Engineer"
-  achievements:
-    - "GSSOC'24 Project Admin"
-    - "GSSOC'24 Mentor @JournalForge
-    - "Awarded a fellowship of Headstarters AI globally
-    - "2x LinkedIn Top Voice"
-    - "Leetcode (1912) @Knight"
-    - "GFG 4 Star"
-    - "AWS AI/ML Scholar '23"
-  skills:
-    - "React"
-    - "Next.js"
-    - "Python"
-    - "Node.js"
   education:
     degree: "BTech in Computer Science Specializing in Data Science"
     university: "Bennett University"
     CGPA: "8.34/10"
+  past_experiences:
+    - role: "Software Engineer Intern", "Itjobsx.com"
+    - role: "Data science Intern", "Celebal Technologies"
+    - achievement: "Software engineering Fellowship", "Headstarters AI"
+    - achievement: "AI/ML Scholar'24", "AWS"
+    - achievement: "Top 5 percent", "Adobe Gensolve Hackathon"
+  Coding achievements:
+    - "Leetcode (2127) @Knight"
+    - "GFG (2071) 5 Star"
+    - "Codechef (1990) 4 Star"
+    - "Codeforce (1541) Specialist"
+    - "Atcoder (656) Brown 7 Kyu"
   specialization: "Frontend & Algorithm Development"
-  experience: "Hackathon Top Performer"
 ```
 
 ## 🌐 CONNECT WITH ME HERE:
 <p align="left">
 <a href="https://www.linkedin.com/in/jahnvisahni31/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jahnvisahni31/"  /></a>
-<a href="https://x.com/sahni_jahnvi" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://medium.com/@jahnvisahni98" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@jahnvisahni98"  /></a>
 <a href="https://leetcode.com/u/jahnvisahni98" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="jahnvisahni98" /></a>
 <a href="https://www.geeksforgeeks.org/user/jahnvisahni98/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="jahnvisahni98" /></a>
