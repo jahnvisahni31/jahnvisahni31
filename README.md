@@ -46,18 +46,23 @@
 
 <br>
 
-## PROJECTS:
+## 🚀 Projects
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Ceramic Haven](https://github.com/jahnvisahni31/CeramicHaven) |A Full stack application using modern tools to manage data and secure user access. |
-| [DesignDeck](https://github.com/jahnvisahni31/DesignDeck) |A Figma-inspired web design tool using Next.js for real-time collaborative editing. |
-| [Bodhibot](https://github.com/jahnvisahni31/BodhiBot) |An AI chatbot that provides insights into Buddhism using Llama2 and Chainlit. |
-| [Airport Analysis](https://github.com/jahnvisahni31/Airport_analysis) |A Power BI dashboard analyzing airport operations to improve efficiency and passenger satisfaction. |
-| [Bikesharing Prediction](https://github.com/jahnvisahni31/predict_bike_sharing_with_autogluon) |Uses AutoGluon in AWS SageMaker Studio to predict bike sharing demand. |
-| [Sportify](https://github.com/jahnvisahni31/Sports-Popularity-Forecast)   |A forecast predicting global sports popularity trends using time series and Google data. | 
-| [Imagify ](https://github.com/jahnvisahni31/Imagify) |A PyTorch-based image classifier that accurately categorizes images into predefined classes. |
-<br>
+### Full Stack Development
+| Project | Description | Tech Stack |
+|---------|------------|------------|
+| [Ceramic Haven](https://github.com/jahnvisahni31/CeramicHaven) | Full stack application for data management and user access | MongoDB, React, Node, Express |
+| [DesignDeck](https://github.com/jahnvisahni31/DesignDeck) | Figma-inspired web design tool with real-time collaboration | Next.js, TypeScript, Liveblocks, Cursor |
+
+### AI/ML & Data Science
+| Project | Description | Tech Stack |
+|---------|------------|------------|
+| [Bodhibot](https://github.com/jahnvisahni31/BodhiBot) | AI chatbot for Buddhist insights | Llama2, Chainlit |
+| [Airport Analysis](https://github.com/jahnvisahni31/Airport_analysis) | Dashboard analyzing airport operations | Power BI |
+| [Bikesharing Prediction](https://github.com/jahnvisahni31/predict_bike_sharing_with_autogluon) | ML model for bike-sharing demand prediction | AWS SageMaker, AutoGluon |
+| [Sportify](https://github.com/jahnvisahni31/Sports-Popularity-Forecast) | Sports popularity trend forecasting | Time Series Prediction |
+| [Imagify](https://github.com/jahnvisahni31/Imagify) | PyTorch-based image classifier | PyTorch |
+
 
 ## SKILLS:
 
