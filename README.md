@@ -19,6 +19,7 @@
   Past_Experiences:
     - role: "Software Engineer Intern", "Itjobsx.com"
     - role: "Data science Intern", "Celebal Technologies"
+    - achievement: "Winter Tech Fellowship", "Palantir"
     - achievement: "Software engineering Fellowship", "Headstarters AI"
     - achievement: "AI/ML Scholar'24", "AWS"
     - achievement: "Top 5 percent", "Adobe Gensolve Hackathon"
