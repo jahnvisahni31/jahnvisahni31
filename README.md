@@ -27,7 +27,7 @@
     - "Leetcode (2127) @Knight"
     - "GFG (2071) 5 Star"
     - "Codechef (1990) 4 Star"
-    - "Codeforce (1541) Specialist"
+    - "Codeforce (1335) Pupil"
     - "Atcoder (656) Brown 7 Kyu"
   Specialization: "Frontend & Algorithm Development"
   Currently_learning:
