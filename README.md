@@ -25,6 +25,7 @@
   Coding achievements:
     - "Leetcode (2339) @Guardian"
     - "GFG (2071) 5 Star"
+    - "Atcoder (971) 5 Kyu
   Specialization: "Frontend & Algorithm Development"
   Currently_learning:
   - "Typescript"
