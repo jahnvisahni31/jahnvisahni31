@@ -71,10 +71,6 @@
 
 ## Github stats:
 <div align="center">
-  <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.7%20million%20lines%20of%20code-blue" alt="Lines of Code" />
-</div>
-<div align="center">
   <br>
 <a href="https://github.com/jahnvisahni31/github-readme-stats"><img alt="jahnvisahni31 Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahnvisahni31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/jahnvisahni31/github-readme-stats"><img alt="jahnvisahni31 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisahni31&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
