@@ -22,10 +22,6 @@
     - achievement: "Software engineering Fellowship", "Headstarters AI"
     - achievement: "AI/ML Scholar'24", "AWS"
     - achievement: "Top 5 percent", "Adobe Gensolve Hackathon"
-  Coding achievements:
-    - "Leetcode (2339) @Guardian"
-    - "GFG (2071) 5 Star"
-    - "Atcoder (971) 5 Kyu
   Specialization: "Frontend & Algorithm Development"
   Currently_learning:
   - "Typescript"
@@ -37,8 +33,7 @@
 <a href="https://jahnvisahni.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="jahnvisahni31" /></a>
 <a href="https://www.linkedin.com/in/jahnvisahni31/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jahnvisahni31/"  /></a>
 <a href="https://medium.com/@jahnvisahni98" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@jahnvisahni98"  /></a>
-<a href="https://leetcode.com/u/jiya31" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="jahnvisahni98" /></a>
-<a href="https://www.geeksforgeeks.org/user/jahnvisahni98/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="jahnvisahni98" /></a>
+<a href="https://x.com/sahni_jahnvi" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=black" alt="sahni_jahnvi"/></a>
 <br>
 
 ## 🚀 Projects
