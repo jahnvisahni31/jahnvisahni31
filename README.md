@@ -5,8 +5,6 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
-
 ## ABOUT ME !! 
 
 ```yaml
@@ -14,15 +12,14 @@
   Education:
     degree: "BTech in Computer Science Specializing in Data Science"
     university: "Bennett University"
-    CGPA: "8.34/10"
+    CGPA: "8.57/10"
   Past_Experiences:
-    - role: "Software Engineer Intern", "Itjobsx.com"
     - role: "Data science Intern", "Celebal Technologies"
     - achievement: "Winter Tech Fellowship", "Palantir"
     - achievement: "Software engineering Fellowship", "Headstarters AI"
     - achievement: "AI/ML Scholar'24", "AWS"
     - achievement: "Top 5 percent", "Adobe Gensolve Hackathon"
-  Specialization: "Frontend & Algorithm Development"
+  Specialization: "Frontend Development"
   Currently_learning:
   - "Typescript"
   - "Three.js"
@@ -80,6 +77,8 @@
 </a>
 </div>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20views&color=0e75b6&style=flat" alt="jahnvisahni31" /> </p>
 <br>
 <br/>
 <div align="center">
