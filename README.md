@@ -14,6 +14,7 @@
     university: "Bennett University"
     CGPA: "8.57/10"
   Past_Experiences:
+    - role: "Software developer intern", "Searchspot.ai"
     - role: "Data science Intern", "Celebal Technologies"
     - achievement: "Winter Tech Fellowship", "Palantir"
     - achievement: "Software engineering Fellowship", "Headstarters AI"
