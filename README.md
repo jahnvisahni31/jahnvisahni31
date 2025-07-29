@@ -28,7 +28,7 @@
 
 ## 🌐 CONNECT WITH ME HERE:
 <p align="left">
-<a href="https://jahnvisahni.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="jahnvisahni31" /></a>
+<a href="https://jahnvi-portfolio-updated.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="jahnvisahni31" /></a>
 <a href="https://www.linkedin.com/in/jahnvisahni31/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jahnvisahni31/"  /></a>
 <a href="https://medium.com/@jahnvisahni98" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@jahnvisahni98"  /></a>
 <a href="https://x.com/sahni_jahnvi" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=black" alt="sahni_jahnvi"/></a>
