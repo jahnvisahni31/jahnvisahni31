@@ -31,7 +31,7 @@ current_focus:
   - 🌱 Mastering TypeScript & Three.js
   - 👯 Open to collaborate on Open Source projects
   - 💬 Ask me about React, Next.js, Python, or Machine Learning
-  - 📝 Regular writer on Medium
+  - 📝 Regular writer on Linkedin newsletter
   - ⚡ Fun fact: Top 5% in Adobe Gensolve Hackathon
 
 work_experience:
