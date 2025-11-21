@@ -218,20 +218,6 @@ specialization: Frontend Development | AI/ML
 
 <!-- GitHub trophy end -->
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-<!-- feel free to contact me text start -->
-<div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=430&height=31&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
-</div>
-<!-- feel free to contact me text end -->
-
-
-<br>
-
 
 
 ## 📝 Latest Blog Posts
