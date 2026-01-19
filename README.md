@@ -238,7 +238,7 @@ specialization: Frontend Development | AI/ML
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=02F769&background=6883FF00&center=true&vCenter=true&random=false&width=600&lines=Thanks+For+Visiting!+⭐;Let's+Connect+and+Build+Together!+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=02F769&background=6883FF00&center=true&vCenter=true&random=false&width=600&lines=Thanks+For+Visiting!+⭐;Let's+Connect!+🚀" alt="Typing SVG" />
   </a>
   
   <h3>Show some ❤️ by starring the repositories!</h3>
