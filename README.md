@@ -1,133 +1,64 @@
 <div align="center">
   <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&duration=3000&pause=500&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+I'm+Jahnvi+Sahni+👋;Aspiring+Software+Engineer+💻;AI/ML+Enthusiast+🤖;Frontend+Developer+✨;Open+Source+Contributor+🚀" alt="Typing SVG"/>
-  </a>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lxZDAxaTJxOGhzMGZtazJ5YnRlNGp2OXA4bm9uNmluNXc3ZTJ0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QIKUNA9oGxeWGLbCFY/giphy.gif" alt="Coding GIF" width="40"/>
-  <br><br>
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jahnvi-s-portfolio.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnvisahni31/)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jahnvisahni98)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sahni_jahnvi)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Jahnvisahni)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20Views&color=02F769&style=for-the-badge)
+  <h1>Hi, I'm Jahnvi Sahni 👋</h1>
+  <h3>Software Engineer • AI Systems • Scalable Backend</h3>
+
+  <p>
+    I build production-grade systems that combine <b>AI + scalable backend architecture</b> to solve real-world problems.
+  </p>
+
+  <br>
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://jahnvi-s-portfolio.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jahnvisahni31/)
+  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/jahnvisahni31)
+
+  <img src="https://komarev.com/ghpvc/?username=jahnvisahni31&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
 
-<br>
 
-## 👩‍💻 About Me
+# 🚀 Highlights
+
+- 🚀 Improved production dashboard performance by **35%** at Searchspot.AI  
+- 🧠 Solved **700+ DSA problems** & ranked **Top 200 in contests**  
+- ⚙️ Built real-time systems using **WebSockets & async processing**  
+- 🏆 **Software Engineering Fellow** @ Headstarter AI  
+- 🧩 Focused on **scalable systems, backend design, and AI integration**
+
+# 🧠 What I Do
+
 ```yaml
-name: Jahnvi Sahni
-location: India
-education:
-  degree: BTech in Computer Science (Data Science Specialization)
-  university: Bennett University
-  cgpa: 8.57/10
-  
-current_focus:
-  - 🔭 Building innovative AI/ML and Full Stack projects
-  - 🌱 Mastering TypeScript & Three.js
-  - 👯 Open to collaborate on Open Source projects
-  - 💬 Ask me about React, Next.js, Python, or Machine Learning
-  - 📝 Regular writer on Linkedin newsletter
-  - ⚡ Fun fact: Top 5% in Adobe Gensolve Hackathon
+focus:
+  - Scalable backend systems (queues, caching, APIs)
+  - AI-powered products (LLMs + real-world workflows)
+  - Real-time systems (WebSockets, event-driven design)
 
-work_experience:
-  - role: Software Developer Intern
-    company: Searchspot.ai
-  - role: Data Science Intern
-    company: Celebal Technologies
-    
-achievements:
-  - "🏆 Winter Tech Fellow - Palantir"
-  - "🏆 Software Engineering Fellow - Headstarters AI"
-  - "🏆 AI/ML Scholar'24 - AWS"
-  - "🏆 Top 5% - Adobe Gensolve Hackathon"
-
-specialization: Frontend Development | AI/ML
+currently_building:
+  - ApplyIQ → Intelligent Job Search System
+  - Distributed backend systems (rate limiting, async processing)
 ```
 
-<br>
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
-### 💻 Full Stack Development
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Ceramic Haven</h3>
-      <div align="center">  
-        <a href="https://github.com/jahnvisahni31/CeramicHaven" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-        </a>
-        <p><strong>MongoDB • React • Node.js • Express</strong></p>
-        <p>A comprehensive full-stack application featuring robust data management, secure user authentication, and intuitive access control systems.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">DesignDeck</h3>
-      <div align="center">
-        <a href="https://github.com/jahnvisahni31/DesignDeck" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-        </a>
-        <p><strong>Next.js • TypeScript • Liveblocks</strong></p>
-        <p>Figma-inspired collaborative design tool with real-time editing capabilities, cursor tracking, and seamless team collaboration features.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+### ⚡ Real-Time Chat System
+- Designed a **low-latency, real-time messaging system** using WebSockets  
+- Handled **concurrent users** with efficient message delivery  
+- Built scalable backend services using **Django**  
 
-### 🤖 AI/ML & Data Science
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Bodhibot</h3>
-      <div align="center">
-        <a href="https://github.com/jahnvisahni31/BodhiBot" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-        </a>
-        <p><strong>Llama2 • Chainlit • RAG</strong></p>
-        <p>An intelligent AI chatbot providing Buddhist philosophical insights and wisdom through natural language processing.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Bikesharing Prediction</h3>
-      <div align="center">
-        <a href="https://github.com/jahnvisahni31/predict_bike_sharing_with_autogluon" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-        </a>
-        <p><strong>AWS SageMaker • AutoGluon • ML</strong></p>
-        <p>Predictive model leveraging machine learning to forecast bike-sharing demand patterns with high accuracy.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Sportify</h3>
-      <div align="center">
-        <a href="https://github.com/jahnvisahni31/Sports-Popularity-Forecast" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-        </a>
-        <p><strong>Time Series • Forecasting</strong></p>
-        <p>Advanced analytics platform for predicting sports popularity trends using time series analysis.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Airport Analysis Dashboard</h3>
-      <div align="center">
-        <a href="https://github.com/jahnvisahni31/Airport_analysis" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-        </a>
-        <p><strong>Power BI • Data Visualization</strong></p>
-        <p>Interactive dashboard analyzing airport operations, passenger flow, and efficiency metrics.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+### 🎨 DesignDeck (Collaborative Platform)
+- Built a **real-time collaborative design tool (Figma-like)**  
+- Implemented **shared state synchronization & live cursor tracking**  
+- Optimized rendering performance using **Next.js**  
 
-<br>
+### 🤖 BodhiBot (AI System)
+- Developed an **LLM-powered chatbot** using **RAG architecture**  
+- Integrated **context-aware retrieval** for improved response accuracy  
+- Designed structured prompt pipelines for better reasoning  
+
+### 📊 Sports Popularity Prediction
+- Built a **time-series forecasting system** using historical datasets  
+- Generated predictive insights to analyze future trends  
 
 ## 🛠️ Tech Stack & Skills
 
